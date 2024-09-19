@@ -2,8 +2,6 @@
 
 Welcome to my **Portfolio App**! This web-based platform showcases my projects, skills, and experience with a sleek, user-friendly interface. You can explore my work, view detailed project showcases, and connect with me for potential collaborations or opportunities.
 
-
-![Projects Page](./screenshot/screencapture-localhost-5173-2024-09-19-03_24_02.png)
 ## 🎨 Features
 
 - **Projects Showcase**: View my top projects with descriptions, technologies used, and source code links.
@@ -22,7 +20,7 @@ Welcome to my **Portfolio App**! This web-based platform showcases my projects, 
 
 ## 🖥️ Live Demo
 
-Check out the live demo of my portfolio: [Portfolio App Live](https://github.com/HussainAnjan5/Hussain-portfolio-app.vercel.app)
+Check out the live demo of my portfolio: [Portfolio App Live](https://hussain-portfolio-app.vercel.app)
 
 ## 🧑‍💻 Getting Started
 
@@ -32,3 +30,5 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/HussainAnjan5/Hussain-portfolio-app.git
+
+![Projects Page](./screenshot/screencapture-localhost-5173-2024-09-19-03_24_02.png)
