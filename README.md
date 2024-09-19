@@ -20,7 +20,7 @@ Welcome to my **Portfolio App**! This web-based platform showcases my projects, 
 
 ## 🖥️ Live Demo
 
-Check out the live demo of my portfolio: [Portfolio App Live](https://hussain-portfolio-app.vercel.app)
+Check out the live demo of my portfolio: [Portfolio App Live](https://portfolio-hussain-3d.vercel.app/)
 
 ## 🧑‍💻 Getting Started
 
