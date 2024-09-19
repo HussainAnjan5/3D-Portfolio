@@ -26,9 +26,10 @@ Check out the live demo of my portfolio: [Portfolio App Live](https://hussain-po
 
 To run this project locally, follow these steps:
 
+![Projects Page](./screenshot/screencapture-localhost-5173-2024-09-19-03_24_02.png)
+
 1. **Clone the repository**:
 
 ```bash
 git clone https://github.com/HussainAnjan5/Hussain-portfolio-app.git
 
-![Projects Page](./screenshot/screencapture-localhost-5173-2024-09-19-03_24_02.png)
