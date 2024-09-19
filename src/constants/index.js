@@ -26,21 +26,21 @@ import {
 } from "../assets";
 
 export const navLinks = [
-  {
-    id: "home",
-    title: "Home",
-  },
+  // {
+  //   id: "home",
+  //   title: "Home",
+  // },
   {
     id: "about",
     title: "About",
   },
   {
-    id: "Experience",
+    id: "work",
     title: "Experience",
   },
   {
-    id: "Portfolio",
-    title: "Portfolio",
+    id: "work",
+    title: "Work",
   },
   {
     id: "contact",
@@ -124,11 +124,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Frontend Developer",
+    company_name: "Soft Enterprise",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "January 2023 - April 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -137,11 +137,11 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "React.js Developer",
+    company_name: "CodeEvolution",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jun 2023 - Sep 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -151,10 +151,10 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "Netsol",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Oct 2023 - Dec 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -164,10 +164,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "PITB",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2024 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -206,9 +206,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Nike Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A web-based platform replicating the Nike website, allowing users to browse and accessories  user-friendly interface for a seamless shopping experience.",
     tags: [
       {
         name: "react",
@@ -224,10 +224,10 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/HussainAnjan5/Nike-Clone-Reactjs-TailwindCSS-Motion-Framer",
   },
   {
-    name: "Job IT",
+    name: "IT Learning",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -245,12 +245,12 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/HussainAnjan5/React-Tailwind-framer-Motion",
   },
   {
-    name: "Trip Guide",
+    name: "Portfolio App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A web-based portfolio platform showcasing projects, skills, and experience with a sleek, user-friendly interface and easily connect for potential collaborations or opportunities.",
     tags: [
       {
         name: "nextjs",
@@ -266,7 +266,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/HussainAnjan5/Hussain-portfolio-app",
   },
 ];
 
